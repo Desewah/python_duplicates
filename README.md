@@ -10,7 +10,7 @@ remove duplicates and return 2 files: i'm lost
 highlight duplicates and return 2 files: i also don't get d point
 
 
-file_upload : i was working on uploading a file that will be compared since it is based on user input on files rii now i'm trying to figure out how to connect it in a way that python has access and can read d file, i used xampp, i dont know if we can use sql to access it and parse it on to python
+file_upload : i was working on uploading a file that will be compared since it is based on user input on files rii now i'm trying to figure out how to connect it in a way that python has access and can read d file, i used xampp as d local server to just check it out and it worked, so rii now i dont know if we can use sql to access it and parse it on to python
 
 compare2: i've always had dis idea of using color coding so i decided to try it, if u notice d compare.py, d code shows the difference using arrows, i didn't feel like that was enough, so i wrote compare2.py to highlight the difference using color but i'm not still satisfied so i will try out using both arrow and color to indicate d diff, when i tried using ablebits, they show d difference using color coding and they also return d 2 files 
 i think that's where the highlight duplicates and return 2 files come around
